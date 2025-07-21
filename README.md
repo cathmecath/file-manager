@@ -1,32 +1,49 @@
 
-# File Manager (C++)
+# 📂 File Manager in C++
 
-A simple virtual file manager implemented in C++.  
-Supports file creation, deletion, navigation, and directory management in a tree-like structure.
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Programming-orange?style=for-the-badge)
 
-## 🛠 Features
+> A simple virtual file manager that mimics basic file system operations within a tree structure.  
+> Created as part of academic practice to strengthen C++ and data structures skills.
+
+---
+
+## ✨ Features
 
 - 📁 Create and delete files and folders
-- 🔀 Change directories
-- 🚚 Move files and folders
-- 📍 Get current directory
+- 🔁 Change directories
+- 📌 Display current path
+- 🚀 Move files and folders
 
-## 📂 File Structure
+---
 
-- `main.cpp` – Entry point to test the file manager
-- `os_file.h` – Header file with the manager interface
-- `task.cpp` – Function implementations
+## 📦 File Structure
 
-## 🧰 Technologies
+| File         | Description                            |
+|--------------|----------------------------------------|
+| `main.cpp`   | Entry point to test the file manager   |
+| `os_file.h`  | Header file with the interface         |
+| `task.cpp`   | Function implementations               |
 
-- Language: C++
-- IDE: JetBrains CLion / Visual Studio / any C++ compiler
+---
 
-## 👤 Author
+## 🧰 Technologies Used
 
-Karina Bakhtiyarova  
-📫 karinabakhti@gmail.com
+- Language: **C++**
+- IDE: **JetBrains CLion**
+- Concepts: Tree structures, OOP, Pointer management
 
-## 💡 Note
+---
 
-This project was originally written during academic practice and demonstrates basic tree-like file system logic.
+## 👩‍💻 Author
+
+**Karina Bakhtiyarova**  
+📫 [karinabakhti@gmail.com](mailto:karinabakhti@gmail.com)
+
+---
+
+## 📌 Note
+
+This is one of my early practical C++ projects. It will be followed by more advanced system-level tools and security-related projects as part of my Cybersecurity journey.
